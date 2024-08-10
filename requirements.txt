@@ -1,0 +1,12 @@
+streamlit
+PyMuPDF
+pytesseract
+pdf2image
+Pillow
+google-generativeai
+gspread
+oauth2client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+openpyxl
